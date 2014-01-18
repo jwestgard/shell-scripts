@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ###########################################################################################
-# This shell script finds all .xml files in the specified directory, pipes the found set  #
-# to awk, which replaces saves the old path & name, then modifies the file name in the    #
-# active record to be [parentdir]-[filename].xml, finally prints a 'mv' command with the  #
-# old path/name and new path/name, and pipes the copy commands to the shell for execution.#
-# ==> To execute: $ ./rename.sh [dirname]                                                 #
+# This shell script finds all .xml files in a specified directory, pipes the found set    #
+# to awk, which stores the old path & name, then modifies the active record to end with   #
+# the filename [parentdir]-[filename].xml, finally constructing a 'mv' command with the   #
+# old path/name and new path/name, and pipes the move command to the shell for execution. #
+# EXECUTE WITH ==> $ ./rename.sh [dirname]                                                #
 ###########################################################################################
 
 find "$@" -name "*.xml" | 
