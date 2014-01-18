@@ -1,4 +1,4 @@
 shell-scripts
 =============
 
-Miscellaneous shell scripts
+Miscellaneous scripts for the UNIX shell.
