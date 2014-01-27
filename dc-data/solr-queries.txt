@@ -1,0 +1,13 @@
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Agriculture%2C+Environment%2C+conservation%2C+the+Natural+World%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Cartography%2C+Geography%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Civil+Rights%2C+civic+engagement%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Economics%2C+Business%2C+Commerce%2C+Labor%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Education%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Fine+Arts%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Government%2C+Law%2C+Politics%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Personal+and+Family+Lives%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Religion%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Science%2C+Technology%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Sports%2C+Recreation%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22War%2C+Military%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
+https://solr.lib.umd.edu/solr/fedora/select?q=dmSubjectBrowse%3A%22Women's+Studies%22&rows=1000&fl=pid%2Cumdm&wt=xml&indent=true
