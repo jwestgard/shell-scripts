@@ -1,0 +1,11 @@
+PATH	BYTES	X-RESOLUTION	Y-RESOLUTION
+/Users/westgard/Desktop/JPEG/dir2/pgb-JA-0001xxxxx-000-fc000_1.jpg 	 13395661 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-000-fc000.jpg 	 3646652 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-000-fc000_1.jpg 	 13395661 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-000-fc000_2.jpg 	 13474332 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-000-fc000inps.jpg 	 3670286 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-007-tx001.jpg 	 12544781 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-007-tx001_1.jpg 	 12538457 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-007-tx001_2.jpg 	 12544781 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-007-tx001inps.jpg 	 12538733 	 4000000/10000 	 4000000/10000
+/Users/westgard/Desktop/JPEG/pgb-JA-0001xxxxx-007-tx001inpsa.jpg 	 1614888 	  	 
