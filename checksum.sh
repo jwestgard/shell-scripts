@@ -2,7 +2,8 @@
 
 for file in "$@";
 do
-  fileinfo=`ls -sgm "$file"`	  
+  fileinfo=`ls -sgm "$file"`
+  size=`stat -f "%z" "$file"`  
   checksum=`md5 -q "$file"`
-  echo -e "$fileinfo \t $checksum"
+  echo -e "$fileinfo \t $size \t $checksum"
 done
